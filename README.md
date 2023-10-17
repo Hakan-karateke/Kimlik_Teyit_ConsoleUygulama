@@ -1,0 +1,1 @@
+# Kimlik_Teyit_ConsoleUygulamas-
